@@ -1,5 +1,4 @@
 /bin/
-<<<<<<< HEAD
 # Created by https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
 # Edit at https://www.toptal.com/developers/gitignore?templates=windows,eclipse,java
 
@@ -122,5 +121,5 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.toptal.com/developers/gitignore/api/windows,eclipse,java
-=======
->>>>>>> refs/heads/hotfix
+/bin/
+/bin/
